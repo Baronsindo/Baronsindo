@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ouhamzalhss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronsindo&theme=light&hide_langs_below=1" />
+<a href="https://github.com/baronsindo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronsindo&theme=light&hide=html,swift,kotlin,objective-c" />
 </a>
-<a href="https://github.com/ouhamzalhss">
+<a href="https://github.com/baronsindo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baronsindo&show_icons=true&theme=light&line_height=27" alt="baronsindo's github stats"/>
 </a>
